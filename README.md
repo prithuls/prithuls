@@ -12,6 +12,7 @@
 <a href="https://twitter.com/prithulsarker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prithulsarker" height="30" width="40" /></a>
 <a href="https://kaggle.com/prithuls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prithuls" height="30" width="40" /></a>
 <a href="https://instagram.com/prithul_sarker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prithul_sarker" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/prithuls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prithuls" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prithuls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prithuls" height="30" width="40" /></a>
 </p>
 
