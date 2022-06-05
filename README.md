@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithuls" alt="prithuls" /></a> </p>
 
+<a href="https://app.daily.dev/prithuls"><img src="https://api.daily.dev/devcards/73faa73982cc4e4786a0a07dfcdd73be.png?r=t0c" width="400" alt="Prithul Sarker's Dev Card"/></a>
+
 - 📫 How to reach me **prithul.pro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
