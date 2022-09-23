@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Prithul Sarker</h1>
+<h1 align="center">Hello there 👋, I'm <a href="https://www.linkedin.com/in/prithulsarker/">Prithul Sarker</a></h1>.
 <h3 align="center">Explorer and Data Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithuls&label=Profile%20views&color=0e75b6&style=flat" alt="prithuls" /> </p>
@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithuls" alt="prithuls" /></a> </p>
 
 - 📫 How to reach me **prithul.pro@gmail.com**
+- Here's my <a href="https://prithulsarker.netlify.app/">portfolio</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
