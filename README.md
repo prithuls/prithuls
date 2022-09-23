@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithuls" alt="prithuls" /></a> </p>
 
 - 📫 How to reach me **prithul.pro@gmail.com**
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25px">Visit my <a href="https://prithulsarker.netlify.app/">portfolio</a>.
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="23px"> Visit my <a href="https://prithulsarker.netlify.app/">portfolio</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
