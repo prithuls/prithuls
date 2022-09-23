@@ -6,10 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithuls" alt="prithuls" /></a> </p>
 
 - 📫 How to reach me **prithul.pro@gmail.com**
-- Here's my <a href="https://prithulsarker.netlify.app/">portfolio</a>.
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="15px"> Visit my <a href="https://prithulsarker.netlify.app/">portfolio</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/prithulsarker/" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="prithulsarker" height="30" width="40" /></a>
 <a href="https://twitter.com/prithulsarker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prithulsarker" height="30" width="40" /></a>
 <a href="https://kaggle.com/prithuls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prithuls" height="30" width="40" /></a>
 <a href="https://instagram.com/prithul_sarker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prithul_sarker" height="30" width="40" /></a>
