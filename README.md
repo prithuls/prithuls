@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithuls" alt="prithuls" /></a> </p>
 
-- 📫 How to reach me **prithul.pro@gmail.com**
+- 📫 How to reach me **prithul [dot] sarker [at] gmail [dot] com**
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="23px"> Visit my <a href="http://www.prithulsarker.me">portfolio</a>.
 - <img src="https://github.com/prithuls/prithuls/blob/main/icons8-developers-60.png" width="23px"> Visualize my <a href="https://honzaap.github.io/GithubCity/?name=prithuls&year=2022">commits on GitHub of 2022</a>.
 
