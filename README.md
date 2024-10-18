@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm <a href="https://www.linkedin.com/in/prithulsarker/">Prithul Sarker</a>.</h1>
-<h3 align="center">Google Research Intern | Computer Science PhD Candidate</h3>
+<h3 align="center">Ex-intern at Google Research | Computer Science PhD Candidate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithuls&label=Profile%20views&color=0e75b6&style=flat" alt="prithuls" /> </p>
 
